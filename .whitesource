@@ -1,7 +1,4 @@
 {
-  "settingsInheritedFrom": "daniel-brown-ws-test/whitesource-config@main",
-  "scanSettings": { 
-    "sastToken": "e9ea98271c3c525182ac974b0a8f09fa4108949ee3f25107ca491996bb231987"
-  }
+  "settingsInheritedFrom": "daniel-brown-ws-test/whitesource-config@main"
 } 
   
