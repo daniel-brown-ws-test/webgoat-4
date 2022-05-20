@@ -6,7 +6,7 @@
   },        
   "issueSettings": {          
     "issueType": "DEPENDENCY",         
-    "minSeverityLevel": "LOW"   
+    "minSeverityLevel": "LOW"    
   },           
   "remediateSettings": {   
     "workflowRules": {     
