@@ -4,7 +4,7 @@
     "displayMode": "diff",
     "iacCheckRunConclusionLevel": "success"
   },        
-  "issueSettings": {        
+  "issueSettings": {         
     "issueType": "DEPENDENCY",        
     "minSeverityLevel": "LOW"   
   },           
