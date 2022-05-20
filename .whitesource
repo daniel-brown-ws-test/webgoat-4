@@ -1,4 +1,21 @@
-{
-  "settingsInheritedFrom": "daniel-brown-ws-test/whitesource-config@main"
-} 
-  
+{ 
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure", 
+    "displayMode": "diff",
+    "iacCheckRunConclusionLevel": "success"
+  },       
+  "issueSettings": {       
+    "issueType": "DEPENDENCY",        
+    "minSeverityLevel": "LOW"   
+  },           
+  "remediateSettings": {   
+    "workflowRules": {     
+      "enabled": true          
+    }
+  },  
+  "scanSettings": { 
+    "enableIaC": true,
+    "enableLicenseViolations": true,
+    "enableSAST": true
+  } 
+}      
