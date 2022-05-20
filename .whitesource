@@ -5,7 +5,7 @@
     "iacCheckRunConclusionLevel": "success"
   },        
   "issueSettings": {          
-    "issueType": "DEPENDENCY",        
+    "issueType": "DEPENDENCY",         
     "minSeverityLevel": "LOW"   
   },           
   "remediateSettings": {   
