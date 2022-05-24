@@ -9,7 +9,7 @@
     "minSeverityLevel": "LOW"     
   },           
   "remediateSettings": {    
-    "workflowRules": {     
+    "workflowRules": {      
       "enabled": true          
     } 
   },  
